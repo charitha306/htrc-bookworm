@@ -131,4 +131,4 @@
 {"name": "date_day", "initial": [736329, 736575], "range": [736329, 736575], "type": "time", "dbfield": "date_day", "unit": "date_day"}
 
 ], "default_search": [{"counttype": "Occurrences_per_Million_Words", "smoothingSpan": 0, "words_collation": "Case_Sensitive", "time_measure": "date_month", "search_limits": [{"word": ["test"]}]}], "settings":
-{"sourceName": "newsarchive", "sourceURL": "newsarchive", "itemName": " text", "dbname": "hathipd"}}
+{"sourceName": "hathipd", "sourceURL": "hathipd", "itemName": " text", "dbname": "hathipd"}}
