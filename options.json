@@ -126,7 +126,7 @@
 {"shortname": "Charlie Rose,Television Program", "dbcode": "6", "name": "Charlie Rose,Television Program"}, "9":
 {"shortname": "Studio 1.0,Television Program", "dbcode": "9", "name": "Studio 1.0,Television Program"}, "8":
 {"shortname": "America This Morning,Television Program", "dbcode": "8", "name": "America This Morning,Television Program"}}}, "type": "categorical", "dbfield": "subject__id", "name": "subject"}, 
-{"name": "date_week", "initial": [736323, 736575], "range": [736323, 736575], "type": "time", "dbfield": "date_week", "unit": "date_week"},
+{"name": "date_year", "initial": [0, 2016], "range": [0, 2016], "type": "time", "dbfield": "date_year", "unit": "date_year"},
 {"name": "date_month", "initial": [736329, 736573], "range": [736329, 736573], "type": "time", "dbfield": "date_month", "unit": "date_month"},
 {"name": "date_day", "initial": [736329, 736575], "range": [736329, 736575], "type": "time", "dbfield": "date_day", "unit": "date_day"}
 
